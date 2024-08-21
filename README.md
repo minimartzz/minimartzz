@@ -50,9 +50,9 @@
 
 ### Recent Activity
 
-<!--START_SECTION:activity>
-<!--END_SECTION:activity>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minimartzz&show_icons=true&theme=cobalt)
+<img align="left" alt="Martin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minimartzz&show_icons=true&theme=cobalt" />
