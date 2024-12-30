@@ -4,9 +4,10 @@
 
 ## What am I working on?
 
-- 📑 Learning Elements of Statistical Learning
-- 🏥 Kaggle project for Spine Degenerative Classification
-- 🤖 Getting better at Tensorflow
+- 🤖 Code examples on Tensorflow Cookbook
+- 🏫 Machine learning design patterns and deployment ideas
+- 💸 Banking project from Kaggle
+- 🏦 MITx Finance MicroMasters
 
 ### Thoughts should be shared not kept 🧠
 
