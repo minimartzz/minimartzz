@@ -4,16 +4,16 @@
 
 ## What am I working on?
 
-- 🤖 Code examples on Tensorflow Cookbook
-- 🏫 Machine learning design patterns and deployment ideas
-- 💸 Banking project from Kaggle
+- 🤖 Machine learning explainability techniques
+- 🦆 BirdCLEF+ 2025
+- 🖼️ Basic image generation application with MERN
 - 🏦 MITx Finance MicroMasters
 
 ### Thoughts should be shared not kept 🧠
 
-- Loving my journey discovering Kendrick Lamars music
-- That the more I learn the more I realise how much I don't know, but that's alright. It begins with a single step
-- Is it actually better to be generalist or specialist?
+- I think all Data Scientist's should have some knowledge about the hardware used to train their models
+- How important are first principles when it comes to implementing projects, since there are so many "ready-made" packages for us to use?
+- Each day is a chance to be great! 💫
 
 ### I'm friendly, I promise
 
