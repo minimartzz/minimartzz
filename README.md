@@ -5,7 +5,7 @@
 ## What am I working on?
 
 - 🤖 Machine learning explainability techniques
-- 🦆 BirdCLEF+ 2025
+- 🪙 DRW Crypto Market Prediction
 - 🖼️ Basic image generation application with MERN
 - 🏦 MITx Finance MicroMasters
 
