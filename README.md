@@ -52,7 +52,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/minimartzz/online-learning-so-mooc/pull/2) in [minimartzz/online-learning-so-mooc](https://github.com/minimartzz/online-learning-so-mooc)
+1. 💪 Opened PR [#3](https://github.com/minimartzz/online-learning-so-mooc/pull/3) in [minimartzz/online-learning-so-mooc](https://github.com/minimartzz/online-learning-so-mooc)
 <!--END_SECTION:activity-->
 
 ---
