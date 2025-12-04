@@ -52,7 +52,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
+1. ❌ Merged PR [#7](undefined) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
 <!--END_SECTION:activity-->
 
 ---
