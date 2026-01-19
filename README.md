@@ -4,16 +4,14 @@
 
 ## What am I working on?
 
-- 🤖 Machine learning explainability techniques
-- 🪙 DRW Crypto Market Prediction
-- 🖼️ Basic image generation application with MERN
-- 🏦 MITx Finance MicroMasters
+- 📊 Trakka: Board Game Stats Tracking App
+- 🎨 pAInt-by-the-numbers: App to generate paint-by-the-numbers pieces from any photo
+- ⏳ MLOps stack (mlflow, DVC, docker, fastAPI, etc.)
+- 🤖 Learning Agentic AI
 
 ### Thoughts should be shared not kept 🧠
 
-- I think all Data Scientist's should have some knowledge about the hardware used to train their models
-- How important are first principles when it comes to implementing projects, since there are so many "ready-made" packages for us to use?
-- Each day is a chance to be great! 💫
+- Slow is Pro
 
 ### I'm friendly, I promise
 
