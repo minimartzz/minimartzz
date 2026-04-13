@@ -50,7 +50,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#5](https://github.com/kasra321/MIMIC-FHIR/pull/5) in [kasra321/MIMIC-FHIR](https://github.com/kasra321/MIMIC-FHIR)
+1. 💪 Opened PR [#7](https://github.com/kasra321/MIMIC-FHIR/pull/7) in [kasra321/MIMIC-FHIR](https://github.com/kasra321/MIMIC-FHIR)
 <!--END_SECTION:activity-->
 
 ---
