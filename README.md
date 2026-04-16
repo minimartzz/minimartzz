@@ -50,7 +50,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kasra321/MIMIC-FHIR/pull/7) in [kasra321/MIMIC-FHIR](https://github.com/kasra321/MIMIC-FHIR)
+1. 🎉 Merged PR [#15](https://github.com/minimartzz/trakka/pull/15) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
 <!--END_SECTION:activity-->
 
 ---
