@@ -50,7 +50,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BGR Model](https://github.com/minimartzz/bg-reco/releases/tag/v0.1.0) in [minimartzz/bg-reco](https://github.com/minimartzz/bg-reco)
+1. 🎉 Merged PR [#16](https://github.com/minimartzz/trakka/pull/16) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
 <!--END_SECTION:activity-->
 
 ---
