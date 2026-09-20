@@ -50,7 +50,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/minimartzz/trakka/pull/23) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
+1. 🎉 Merged PR [#24](https://github.com/minimartzz/trakka/pull/24) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
 <!--END_SECTION:activity-->
 
 ---
