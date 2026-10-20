@@ -50,7 +50,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/minimartzz/trakka/issues/25) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
+1. 🎉 Merged PR [#40](https://github.com/minimartzz/trakka/pull/40) in [minimartzz/trakka](https://github.com/minimartzz/trakka)
 <!--END_SECTION:activity-->
 
 ---
